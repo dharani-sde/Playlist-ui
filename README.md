@@ -10,3 +10,5 @@ This project focuses on clean layout, styling, and basic UI elements to showcase
 - Playlist items with title and artists
 - Hover effects on playlist items for interactivity
 - Fully built with HTML and CSS (no JavaScript)
+
+![image alt](https://github.com/dharani-sde/Playlist-ui/blob/main/Playlist-ui%20screenshot.png?raw=true)

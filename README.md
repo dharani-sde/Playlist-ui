@@ -12,3 +12,7 @@ This project focuses on clean layout, styling, and basic UI elements to showcase
 - Fully built with HTML and CSS (no JavaScript)
 
 ![image alt](https://github.com/dharani-sde/Playlist-ui/blob/main/Playlist-ui%20screenshot.png?raw=true)
+
+## Live Demo
+
+[Click Here](https://its-dharani.github.io/Playlist-ui/)
